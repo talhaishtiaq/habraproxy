@@ -6,7 +6,7 @@ from bottle import route, run, response, request
 from bs4 import BeautifulSoup, Comment, Doctype
 
 
-SITE_URL = 'https://habrahabr.ru'
+SITE_URL = 'https://habr.com/ru/company/yandex/blog/258673/'
 HOST = 'localhost'
 PORT = 8088
 
